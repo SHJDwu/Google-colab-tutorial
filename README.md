@@ -1,2 +1,2 @@
-# Google-colab-tutorial
+# Google-colab-tutorial-learning
 Simple colab tutorial
